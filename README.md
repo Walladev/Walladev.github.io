@@ -1,4 +1,6 @@
 # Welcome to Walladev
+Please feel free to contact me with any questions, concerns, or requests!
+awollocko@gmail.com
 
 ## In Development
 
