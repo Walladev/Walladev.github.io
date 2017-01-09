@@ -2,7 +2,7 @@
 
 ## In Development
 
-### Build and Placement Tool
+###  _Build and Placement Tool_
 
 We're currently developing a simplified build tool for Unity that can be easily dropped into current projects, and allows for easy specification of a modular build system at runtime.
 
