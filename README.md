@@ -1,14 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Walladev
 
-wtf
+## In Development
+### Build and Placement Tool
+We're currently developing a simplified build tool for Unity that can be easily dropped into current projects, and allows for easy specification of a modular build system at runtime.
+##Features
+- Use your own models in a modular building system within a minute
+- Simple high level configuration (overlap specifications, allowable build layers)
+- Full featured dynamic UI generation for intuitive placement
+- Camera independent building - works with any camera/controller!
+- Only 4 scripts
 
-You can use the [editor on GitHub](https://github.com/walladev/walladev.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**What does that all mean?** Think about a situation where you're designing a game, and want your user to build a wall. You have your wall object pre-defined, but how do you allow the user to place it? How do you make sure they place it in appropriate places, not overlapping with other objects, manage the fine details of object placement (height, rotation, etc), and allow the user to manipulate (e.g., delete) that object later?
+And thats just for a single object! What about when you want multiple objects for your user to construct anything in their imagination? Imagine legos for your Unity applications. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our build tool takes inspiration from games such as [Rust](https://www.youtube.com/watch?v=fAqK7N_qLZg), [Ark](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj0x8HuxbXRAhVFRiYKHWy0C6UQjRwIBw&url=http%3A%2F%2Farksurvivalevolved.gamewalkthrough-universe.com%2Fbuildingstructures%2Fdefensivewallsdinogates%2FDefault.aspx&bvm=bv.142059868,d.amc&psig=AFQjCNH78020vW51JGoshJJPRCZLWPbd9g&ust=1484067886960272), [Command and Conquer](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiq87L6xbXRAhWMLSYKHT25DjYQjRwIBw&url=http%3A%2F%2Fcnc.wikia.com%2Fwiki%2FSidebar&psig=AFQjCNE8Z7dhoNbVaWQ-cRjvDkhHf6AYjg&ust=1484067912374379), and The Sims to construct a _robust build system that manages all the scripts necessary for such a system_. As the developer, you just select which of your models you want as build pieces, select some high-level options (e.g., strict overlap vs lenient overlap), and our build tool will enable your players to place objects within their world on any of the game layers you specify. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Public (Free) Unity Projects
+Below please find links to some of my public Unity Projects
 
 ```markdown
 Syntax highlighted code block
@@ -28,12 +37,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/walladev/walladev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
