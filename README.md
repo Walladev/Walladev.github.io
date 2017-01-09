@@ -23,23 +23,6 @@ Our build tool takes inspiration from games such as [Rust](https://www.youtube.c
 ### Public (Free) Unity Projects
 Below please find links to some of my public Unity Projects
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 [markdown](https://guides.github.com/features/mastering-markdown/).
 
