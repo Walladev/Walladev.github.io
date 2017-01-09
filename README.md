@@ -1,9 +1,13 @@
 # Welcome to Walladev
 
 ## In Development
+
 ### Build and Placement Tool
+
 We're currently developing a simplified build tool for Unity that can be easily dropped into current projects, and allows for easy specification of a modular build system at runtime.
+
 ##Features
+
 - Use your own models in a modular building system within a minute
 - Simple high level configuration (overlap specifications, allowable build layers)
 - Full featured dynamic UI generation for intuitive placement
